@@ -27,12 +27,12 @@ This is a new experiment, but so far it works. I can offer you a complete site t
 
 * **Install Wordpress** into a domain, subdomain, directory of existing domain, typically from your cpanel You do not need to do anything to it. Just make sure you can log in as admin.
 * **Download the appropriate package file below.** Expand the zip for a file ending in `.wpress`
-* **Install a Plugin** In your new site's Dashboard, go yo Plugins, and search for, instal, and activate the [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) plugin.
-* **Import the Package** Once the plugin is installed, look for it listed in the left side of your Wordpress dashboard- select the option below it for **Import** Drag and drop the file `.wpress` to the importer. Wait for it to simmer/upload. You will be asked to confirm over writing an existing site. Agree.
+* **Install a Plugin**. In your new site's Dashboard, go to **Plugins** and search for, install, and activate the [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) plugin.
+* **Import the Package**. Once the plugin is installed, look for it listed in the left side of your Wordpress dashboard- select the option below it for **Import**. Drag and drop the  `.wpress` file onto the importer. Wait for it to simmer/upload. You will be asked to confirm overwriting an existing site. Agree.
 
 Once imported, you can de-activate and delete the All-in-One WP Migration plugin.
 
-It's done. You will have to log in toy your site as admin again to start enjoying your noodles.
+It's done. You will have to log in to your site as admin again to start enjoying your noodles.
 
 ---
 
