@@ -40,7 +40,7 @@ It's done. You will have to log in toy your site as admin again to start enjoyin
 
 This download needs everything you need to set up a [TRU Writer site](http://splot.ca/splots/tru-writer/). 
 
-* [Download TRU Writer wpress Package](noodles/tru-writer-wpress.zip)
+* [Download TRU Writer wpress Package](https://github.com/cogdog/instant-splot/blob/master/noodles/tru-writer-wpress.zip)
 * [TRU Writer Documentation](https://github.com/cogdog/truwriter)
 
 I suggest generating a new password for the `writer` user account, copying it, and then pasting it in the TRU Writer options for this value. [See documentation](https://github.com/cogdog/truwriter#author-account-setup) for more details
