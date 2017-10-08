@@ -36,12 +36,36 @@ It's done. You will have to log in to your site as admin again to start enjoying
 
 ---
 
+
+
+### Instant Site Package for WP-Dimension Calling Card Theme
+
+This download needs everything you need to set up a [WP-Dimension Calling Card site](https://github.com/cogdog/wp-dimension) with demo content, all plugins, and initial settings.
+
+* [Download WP-Dimension wpress Package](https://github.com/cogdog/instant-splot/raw/master/noodles/dimension-wpress.zip) 10.7 Mb
+* [WP-Dimension Documentation](https://github.com/cogdog/wp-dimension)
+
+### Instant Site Package for WP-Big Picture Calling Card Theme
+
+This download needs everything you need to set up a [WP-Big Picture Calling Card site](https://github.com/cogdog/wp-bigpicture) with demo content, all plugins, and initial settings.
+
+* [Download WP-Big Picture wpress Package](https://github.com/cogdog/instant-splot/raw/master/noodles/bigpicture-wpress.zip) 13.4 Mb
+* [WP-Big Picture Documentation](https://github.com/cogdog/wp-bigpicture)
+
+### Instant Site Package for SPLOTpoint Teme
+
+This download needs everything you need to set up a [SPLOTpoint presentation site](https://github.com/cogdog/splotpoint) with demo content, all plugins, and initial settings.
+
+* [Download SPLOTpoint wpress Package](https://github.com/cogdog/instant-splot/raw/master/noodles/splotpoint-wpress.zip) 7 Mb
+* [SPLOTpoint Documentation](https://github.com/cogdog/splotpoint)
+
+
 ### Instant Site Package for the TRU Writer
 
-This download needs everything you need to set up a [TRU Writer site](http://splot.ca/splots/tru-writer/). 
+This download needs everything you need to set up a [TRU Writer site](http://splot.ca/splots/tru-writer/) with . 
 
-* [Download TRU Writer wpress Package](https://github.com/cogdog/instant-splot/raw/master/noodles/tru-writer-wpress.zip)
-* [TRU Writer Documentation](https://github.com/cogdog/truwriter)
+* [Download TRU Writer wpress Package](https://github.com/cogdog/instant-splot/raw/master/noodles/tru-writer-wpress.zip) 15.4 Mb
+* [TRU Writer Documentation](https://github.com/cogdog/truwriter) with demo content, all plugins, and initial settings.
 
 I suggest generating a new password for the `writer` user account, copying it, and then pasting it in the TRU Writer options for this value. [See documentation](https://github.com/cogdog/truwriter#author-account-setup) for more details
 
